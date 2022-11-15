@@ -1,2 +1,2 @@
 # apk-test-store
-apk storage
+temporary storage for apks
